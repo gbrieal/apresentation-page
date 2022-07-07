@@ -10,4 +10,4 @@ A criação e desenvolvimento foi de livre escolha e a página está em inglês 
 
 <br>
 
->Se gostou, clica na ⭐ ali no canto! 
+>Se gostou, clica no botão **Star ⭐** ali no canto! 
