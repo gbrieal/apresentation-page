@@ -10,4 +10,14 @@ A criação e desenvolvimento foi de livre escolha e a página está em inglês 
 
 <br>
 
->Se gostou, clica no botão **Star ⭐** ali no canto! 
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" width="51" alt="html5 logo"  />
+  
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" width="51" alt="css3 logo"  />
+  
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" width="51" alt="javascript logo"  />
+
+<br>
+<br>
+<br>
+
+> Se gostou, clica no botão **Star ⭐** ali no canto!
